@@ -4,6 +4,8 @@ passionate about building impactful tech with a focus on AI, healthcare innovati
 My Instagram Personal account https://www.instagram.com/manav_arya_singh/?next=%2F <br/>
 My Gaming Account https://www.instagram.com/periperimouse/?next=%2F <br/>
 My keyboard Account https://www.youtube.com/@Gammakey <br/>
+Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Manavarya09)
+
 
 
 ## 🌐 Socials:
