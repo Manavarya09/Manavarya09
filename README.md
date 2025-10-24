@@ -1,5 +1,5 @@
 👋 Hi, I'm Manav Arya Singh, <br/>
-a Computer Science undergrad at BITS Pilani – Dubai,  <br/>
+a Computer Science undergrad at BITS Pilani,  <br/>
 passionate about building impactful tech with a focus on AI, healthcare innovation, and clean UI design. <br/>
 My Instagram Personal account https://www.instagram.com/manav_arya_singh/?next=%2F <br/>
 My Gaming Account https://www.instagram.com/periperimouse/?next=%2F <br/>
