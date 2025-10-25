@@ -22,6 +22,12 @@ Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Manavarya09)
 ![](https://nirzak-streak-stats.vercel.app/?user=Manavarya09&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manavarya09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manavarya09&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+</div>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Manavarya09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
