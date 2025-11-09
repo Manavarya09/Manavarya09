@@ -8,7 +8,7 @@ Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Manavarya09)
 
 
 
-**Projects 
+Projects <br/>
 Bsf Website - https://bsf.bitsdubaievents.com <br/>
 Bsf-admin Website - https://bsf-admin.bitsdubaievents.com <br/>
 Bits-transport Website - https://bits-transport.bitsdubaievents.com <br/>
@@ -19,7 +19,7 @@ IEEE BDPC website - <br/>
 Student-Council BPDC - https://studentcouncilbpdc.com/<br/>
 Tendercare FZE -  https://tendercare.com <br/>
 Udgaar 2025 website - https://www.udgaar.in 
-**
+
 
 
 
