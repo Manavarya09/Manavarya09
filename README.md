@@ -9,15 +9,15 @@ Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Manavarya09)
 
 
 **Projects 
-Bsf Website - https://bsf.bitsdubaievents.com
-Bsf-admin Website - https://bsf-admin.bitsdubaievents.com 
-Bits-transport Website - https://bits-transport.bitsdubaievents.com
-Bits-K101 lms-system - https://physical-education.bitsdubaievents.com
-Bits-backend server –  https://backend.bitsdubaievents.com/ 
-E-cell BPDC website – 
-IEEE BDPC website - 
-Student-Council BPDC - https://studentcouncilbpdc.com/
-Tendercare FZE -  https://tendercare.com 
+Bsf Website - https://bsf.bitsdubaievents.com <br/>
+Bsf-admin Website - https://bsf-admin.bitsdubaievents.com <br/>
+Bits-transport Website - https://bits-transport.bitsdubaievents.com <br/>
+Bits-K101 lms-system - https://physical-education.bitsdubaievents.com <br/>
+Bits-backend server –  https://backend.bitsdubaievents.com/ <br/>
+E-cell BPDC website – <br/>
+IEEE BDPC website - <br/>
+Student-Council BPDC - https://studentcouncilbpdc.com/<br/>
+Tendercare FZE -  https://tendercare.com <br/>
 Udgaar 2025 website - https://www.udgaar.in 
 **
 
