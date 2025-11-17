@@ -13,7 +13,7 @@ Bsf-admin Website - https://bsf-admin.bitsdubaievents.com <br/>
 Bits-transport Website - https://bits-transport.bitsdubaievents.com <br/>
 Bits-K101 lms-system - https://physical-education.bitsdubaievents.com <br/>
 Bits-backend server –  https://backend.bitsdubaievents.com/ <br/>
-Bitsevents certificate generator - </br>
+Bitsevents certificate generator - https://bitscertificategenerator.bitsdubaievents.com </br>
 IEEE BDPC website - https://ieeebitspilanidubai.vercel.app <br/> 
 Student-Council BPDC - https://studentcouncilbpdc.com/<br/>
 E-cell BPDC website – https://ecellbpdc.vercel.app <br/>
