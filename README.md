@@ -7,7 +7,7 @@ My keyboard Account https://www.youtube.com/@Gammakey <br/>
 
 
 
-##Bits Eco-system <br/>
+## Bits Eco-system <br/>
 Bsf Website - https://bsf.bitsdubaievents.com <br/>
 Bsf-admin Website - https://bsf-admin.bitsdubaievents.com <br/>
 Bits-transport Website - https://bits-transport.bitsdubaievents.com <br/>
@@ -18,16 +18,16 @@ IEEE BDPC website - https://ieeebitspilanidubai.vercel.app <br/>
 Student-Council BPDC - https://studentcouncilbpdc.com/<br/>
 E-cell BPDC website – https://ecellbpdc.vercel.app <br/>
 
-##work <br/>
+## work <br/>
 Tendercare FZE -  https://tendercare.com <br/>
 Udgaar 2025 website - https://www.udgaar.in 
 
-##Co-Curricular roles </br>
+## Co-Curricular roles </br>
 Technical Lead - Esummit'26 BPDC </br>
 Technical Co-lead - BSF'25  </br>
 Web Developer - IEEE BPDC </br>
 Web Developer - Student Council  </br>
-Technical Mentor - E-CELL BPDC
+Technical Mentor - E-CELL BPDC  </br>
 
 
 <br/>
