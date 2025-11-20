@@ -1,4 +1,4 @@
-👋 Hi, I'm Manav Arya Singh, <br/>
+### 👋 Hi, I'm Manav Arya Singh, <br/>
 a Computer Science undergrad at BITS Pilani,  <br/>
 Full Stack developer and UI/UX Desginer <br/>
 My Instagram Personal account https://www.instagram.com/manav_arya_singh/?next=%2F <br/>
