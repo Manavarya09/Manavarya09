@@ -24,6 +24,7 @@ Udgaar 2025 website - https://www.udgaar.in
 
 ## Co-Curricular roles </br>
 Technical Lead - Esummit'26 BPDC </br>
+Technical & Digital Creative Co-lead - Jashn'26 </br>
 Technical Co-lead - BSF'25  </br>
 Web Developer - IEEE BPDC </br>
 Web Developer - Student Council  </br>
