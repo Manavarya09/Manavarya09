@@ -32,6 +32,7 @@ Technical Mentor - E-CELL BPDC  </br>
 </br>
  ## Co-Curricular roles - outside of tech </br>
  Marketing Head - E-CELL BPDC  </br>
+ Creative Head - Spectrum 2026 </br>
  GRAPHIC DESIGNER & SOCIAL MEDIA CORDINATOR - STUDENT COUNCIL BPDC  </br> 
  Media Executive  - MAD CLUB </br>
  Marketing Executive - ACM BPDC & LUG BPDC
