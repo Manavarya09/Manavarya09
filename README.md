@@ -14,7 +14,7 @@ E-summit Website - https://www.esummitbpdc.com <br/>
 Bsf-admin Website - https://bsf-admin.bitsdubaievents.com <br/>
 Bits-transport Website - https://bits-transport.bitsdubaievents.com <br/>
 Bits-K101 lms-system - https://physical-education.bitsdubaievents.com <br/>
-Bits-backend server –  https://backend.bitsdubaievents.com/ <br/>
+ResearchX website IEEE - https://researchxieeebpdc.vercel.app/ <br/>
 Bitsevents certificate generator - https://bitscertificategenerator.bitsdubaievents.com </br>
 IEEE BDPC website - https://ieeebitspilanidubai.vercel.app <br/> 
 Student-Council BPDC - https://studentcouncilbpdc.com/<br/>
