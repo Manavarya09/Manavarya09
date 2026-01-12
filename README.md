@@ -45,15 +45,15 @@ Official website for IEEE BITS Pilani Dubai Campus chapter showcasing technical 
 
 **ResearchX website IEEE** - https://researchxieeebpdc.vercel.app/ <br/>
 Research symposium platform for IEEE featuring paper submissions, abstracts, conference schedules, and academic collaboration tools for students and faculty.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase, Vercel*
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Vercel*
 
 **Datathon IEEExLUG** -  https://datathon-ieeexlug.vercel.app <br/>
 Data science hackathon website with team registrations, problem statements, leaderboards, and submission portals for collaborative IEEE x LUG event.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase, Chart.js, Vercel*
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, , Vercel*
 
 **Mouse Runner Challenge IEEExASME** - https://mouse-runner-challenge.vercel.app <br/>
 Interactive robotics competition platform for micromouse challenge featuring real-time maze solving visualizations, team standings, and event details.<br/>
-*Tech Stack: Next.js, TypeScript, React, Three.js, Tailwind CSS, Vercel*
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Vercel*
 
 # E-cell BPDC Projects <br/>
 
@@ -71,7 +71,7 @@ Annual entrepreneurship summit platform with speaker registrations, startup comp
 Student Council's official website featuring council members, campus initiatives, event calendars, feedback systems, and student governance resources.<br/>
 *Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Radix UI, Three.js, React Router, React Hook Form, Zod*
 
-## work <br/>
+# work <br/>
 
 **Tendercare FZE** -  https://tendercare.com <br/>
 Corporate website for Tendercare FZE healthcare company showcasing medical services, facilities, online appointments, patient portal, and healthcare solutions.<br/>
