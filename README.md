@@ -6,7 +6,9 @@ My Gaming Account https://www.instagram.com/periperimouse/?next=%2F <br/>
 My keyboard Account https://www.youtube.com/@Gammakey <br/>
 
 ## Portfolio website - https://www.manavaryasingh.com/ <br/>
+
 ## Building BLESSBITE - http://www.blessbite.com/ <br>
+A food-tech platform connecting users with local restaurants and home chefs, offering curated meal options with seamless ordering and delivery experiences.
 
 
 # BITSDUBAIEVENTS Projects <br/>
