@@ -77,7 +77,7 @@ Corporate website for Tendercare FZE healthcare company showcasing medical servi
 
 **Udgaar 2025 website** - https://www.udgaar.in <br/>
 Cultural festival website for Udgaar 2025 featuring event listings, artist lineups, ticket bookings, live updates, and interactive campus maps.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Framer Motion, Vercel* 
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Framer Motion, Vercel*
 
 ## Co-Curricular roles </br>
 Technical Lead - Esummit'26 BPDC </br>
