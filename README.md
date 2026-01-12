@@ -68,7 +68,7 @@ Annual entrepreneurship summit platform with speaker registrations, startup comp
 
 # Student Council BPDC  <br/>
 
-**Student-Council BPDC** - https://studentcouncilbpdc.com/<br/>
+**Student-Council BPDC** - https://studentcouncilbpdc.com <br/>
 Student Council's official website featuring council members, campus initiatives, event calendars, feedback systems, and student governance resources.<br/>
 *Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Radix UI, Three.js, React Router, React Hook Form, Zod*
 
