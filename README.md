@@ -6,37 +6,80 @@ My Gaming Account https://www.instagram.com/periperimouse/?next=%2F <br/>
 My keyboard Account https://www.youtube.com/@Gammakey <br/>
 
 ## Portfolio website - https://www.manavaryasingh.com/ <br/>
+
 ## Building BLESSBITE - http://www.blessbite.com/ <br>
+A food-tech platform connecting users with local restaurants and home chefs, offering curated meal options with seamless ordering and delivery experiences.
 
 
 # BITSDUBAIEVENTS Projects <br/>
 
-Jashn Website - https://jashn.bitsdubaievents.com </br>
-Bsf Website - https://bsf.bitsdubaievents.com <br/>
-Bsf-admin Website - https://bsf-admin.bitsdubaievents.com <br/>
-Bits-transport Website - https://bits-transport.bitsdubaievents.com <br/>
-Bits-K101 lms-system - https://physical-education.bitsdubaievents.com <br/>
-Bitsevents certificate generator - https://bitscertificategenerator.bitsdubaievents.com </br>
+**Jashn Website** - https://jashn.bitsdubaievents.com </br>
+Annual cultural festival website featuring event registrations, live updates, and interactive schedules for BITS Pilani Dubai Campus's flagship cultural fest.<br/>
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase, Vercel*
+
+**Bsf Website** - https://bsf.bitsdubaievents.com <br/>
+BITS Sports Fest platform with sports event management, team registrations, live scoreboards, and tournament brackets for inter-college sports competitions.<br/>
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase*
+
+**Bsf-admin Website** - https://bsf-admin.bitsdubaievents.com <br/>
+Administrative dashboard for BSF organizers to manage events, registrations, teams, schedules, and real-time updates during the sports festival.<br/>
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase*
+
+**Bits-transport Website** - https://bits-transport.bitsdubaievents.com <br/>
+Campus transportation management system for event logistics, shuttle tracking, route planning, and participant transportation during major campus events.<br/>
+*Tech Stack: Next.js, TypeScript, React, Google Maps API, Tailwind CSS*
+
+**Bits-K101 lms-system** - https://physical-education.bitsdubaievents.com <br/>
+Learning Management System for physical education courses with attendance tracking, fitness assessments, course materials, and student progress monitoring.<br/>
+*Tech Stack: Next.js, TypeScript, React, PocketBase, Tailwind CSS, Chart.js*
+
+**Bitsevents certificate generator** - https://bitscertificategenerator.bitsdubaievents.com </br>
+Automated certificate generation tool for event participants with customizable templates, bulk generation, and digital signature integration.<br/>
+*Tech Stack: Next.js, TypeScript, React, Canvas API, PDF-lib, PocketBase*
 
 # IEEE BPDC Projects <br/>
 
-IEEE official Website - https://ieeebitspilanidubai.vercel.app/ <br/>
-ResearchX website IEEE - https://researchxieeebpdc.vercel.app/ <br/>
-Datathon IEEExLUG -  https://datathon-ieeexlug.vercel.app <br/>
-Mouse Runner Challenge IEEExASME - https://mouse-runner-challenge.vercel.app <br/>
+**IEEE official Website** - https://ieeebitspilanidubai.vercel.app/ <br/>
+Official website for IEEE BITS Pilani Dubai Campus chapter showcasing technical events, workshops, research initiatives, and member resources.<br/>
+*Tech Stack: React, TypeScript, Vite, Tailwind CSS, Framer Motion, Vercel*
+
+**ResearchX website IEEE** - https://researchxieeebpdc.vercel.app/ <br/>
+Research symposium platform for IEEE featuring paper submissions, abstracts, conference schedules, and academic collaboration tools for students and faculty.<br/>
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase, Vercel*
+
+**Datathon IEEExLUG** -  https://datathon-ieeexlug.vercel.app <br/>
+Data science hackathon website with team registrations, problem statements, leaderboards, and submission portals for collaborative IEEE x LUG event.<br/>
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase, Chart.js, Vercel*
+
+**Mouse Runner Challenge IEEExASME** - https://mouse-runner-challenge.vercel.app <br/>
+Interactive robotics competition platform for micromouse challenge featuring real-time maze solving visualizations, team standings, and event details.<br/>
+*Tech Stack: Next.js, TypeScript, React, Three.js, Tailwind CSS, Vercel*
 
 # E-cell BPDC Projects <br/>
 
-E-cell BPDC website – https://ecellbpdc.vercel.app <br/>
-E-summit Website - https://www.esummitbpdc.com <br/>
+**E-cell BPDC website** – https://ecellbpdc.vercel.app <br/>
+Entrepreneurship Cell's official portal featuring startup resources, incubation programs, speaker series, and entrepreneurship events for aspiring founders.<br/>
+*Tech Stack: Next.js 15, TypeScript, React, Tailwind CSS v4, Radix UI, shadcn/ui, Framer Motion, Zustand, TanStack Query, Vercel*
+
+**E-summit Website** - https://www.esummitbpdc.com <br/>
+Annual entrepreneurship summit platform with speaker registrations, startup competitions, pitch decks, workshop schedules, and investor networking.<br/>
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase, Framer Motion, Vercel*
 
 # Student Council BPDC Projects <br/>
 
-Student-Council BPDC - https://studentcouncilbpdc.com/<br/>
+**Student-Council BPDC** - https://studentcouncilbpdc.com/<br/>
+Student Council's official website featuring council members, campus initiatives, event calendars, feedback systems, and student governance resources.<br/>
+*Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Radix UI, Three.js, React Router, React Hook Form, Zod*
 
 ## work <br/>
-Tendercare FZE -  https://tendercare.com <br/>
-Udgaar 2025 website - https://www.udgaar.in 
+
+**Tendercare FZE** -  https://tendercare.com <br/>
+Corporate website for Tendercare FZE healthcare company showcasing medical services, facilities, online appointments, patient portal, and healthcare solutions.<br/>
+*Tech Stack: HTML, CSS, JavaScript, Bootstrap, PHP, MySQL*
+
+**Udgaar 2025 website** - https://www.udgaar.in <br/>
+Cultural festival website for Udgaar 2025 featuring event listings, artist lineups, ticket bookings, live updates, and interactive campus maps.<br/>
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Framer Motion, Vercel*
 
 ## Co-Curricular roles </br>
 Technical Lead - Esummit'26 BPDC </br>
