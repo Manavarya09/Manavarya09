@@ -72,11 +72,13 @@ Annual entrepreneurship summit platform with speaker registrations, startup comp
 Student Council's official website featuring council members, campus initiatives, event calendars, feedback systems, and student governance resources.<br/>
 *Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Radix UI, Three.js, React Router, React Hook Form, Zod*
 
-# work <br/>
+# Tendercare FZE <br/>
 
-**Tendercare FZE** -  https://tendercare.com <br/>
+**Tendercare Website ** -  https://tendercare.com <br/>
 Corporate website for Tendercare FZE healthcare company showcasing medical services, facilities, online appointments, patient portal, and healthcare solutions.<br/>
 *Tech Stack: HTML, CSS, JavaScript, Bootstrap, PHP, MySQL*
+
+# Udgaar 2025 <br/>
 
 **Udgaar 2025 website** - https://www.udgaar.in <br/>
 Cultural festival website for Udgaar 2025 featuring event listings, artist lineups, ticket bookings, live updates, and interactive campus maps.<br/>
