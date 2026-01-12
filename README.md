@@ -12,7 +12,7 @@ website - http://www.blessbite.com/ (waitlist) <br/>
 BlessBite is a food discovery platform that helps people understand what they eat. We focus on vegetarian food and provide clarity for Jain, No Onion–No Garlic, Eggless, and Sattvik diets. We help you discover and choose with confidence.
 
 
-# BITSDUBAIEVENTS Projects <br/>
+# BITSDUBAIEVENTS <br/>
 
 **Jashn Website** - https://jashn.bitsdubaievents.com </br>
 Annual cultural festival website featuring event registrations, live updates, and interactive schedules for BITS Pilani Dubai Campus's flagship cultural fest.<br/>
@@ -38,7 +38,7 @@ Learning Management System for physical education courses with attendance tracki
 Automated certificate generation tool for event participants with customizable templates, bulk generation, and digital signature integration.<br/>
 *Tech Stack: Next.js, TypeScript, React, Canvas API, PDF-lib, PocketBase*
 
-# IEEE BPDC Projects <br/>
+# IEEE BPDC <br/>
 
 **IEEE official Website** - https://ieeebitspilanidubai.vercel.app/ <br/>
 Official website for IEEE BITS Pilani Dubai Campus chapter showcasing technical events, workshops, research initiatives, and member resources.<br/>
@@ -56,7 +56,7 @@ Data science hackathon website with team registrations, problem statements, lead
 Interactive robotics competition platform for micromouse challenge featuring real-time maze solving visualizations, team standings, and event details.<br/>
 *Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Vercel*
 
-# E-cell BPDC Projects <br/>
+# E-cell BPDC <br/>
 
 **E-cell BPDC website** – https://ecellbpdc.vercel.app <br/>
 Entrepreneurship Cell's official portal featuring startup resources, incubation programs, speaker series, and entrepreneurship events for aspiring founders.<br/>
@@ -66,7 +66,7 @@ Entrepreneurship Cell's official portal featuring startup resources, incubation 
 Annual entrepreneurship summit platform with speaker registrations, startup competitions, pitch decks, workshop schedules, and investor networking.<br/>
 *Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase, Framer Motion, Vercel*
 
-# Student Council BPDC Projects <br/>
+# Student Council BPDC  <br/>
 
 **Student-Council BPDC** - https://studentcouncilbpdc.com/<br/>
 Student Council's official website featuring council members, campus initiatives, event calendars, feedback systems, and student governance resources.<br/>
