@@ -4,21 +4,35 @@ Full Stack developer and UI/UX Desginer <br/>
 My Instagram Personal account https://www.instagram.com/manav_arya_singh/?next=%2F <br/>
 My Gaming Account https://www.instagram.com/periperimouse/?next=%2F <br/>
 My keyboard Account https://www.youtube.com/@Gammakey <br/>
+
 ## Portfolio website - https://www.manavaryasingh.com/ <br/>
 ## Building BLESSBITE - http://www.blessbite.com/ <br>
 
-## Bits Eco-system <br/>
+
+# BITSDUBAIEVENTS Projects <br/>
+
 Jashn Website - https://jashn.bitsdubaievents.com </br>
 Bsf Website - https://bsf.bitsdubaievents.com <br/>
-E-summit Website - https://www.esummitbpdc.com <br/>
 Bsf-admin Website - https://bsf-admin.bitsdubaievents.com <br/>
 Bits-transport Website - https://bits-transport.bitsdubaievents.com <br/>
 Bits-K101 lms-system - https://physical-education.bitsdubaievents.com <br/>
-ResearchX website IEEE - https://researchxieeebpdc.vercel.app/ <br/>
 Bitsevents certificate generator - https://bitscertificategenerator.bitsdubaievents.com </br>
-IEEE BDPC website - https://ieeebitspilanidubai.vercel.app <br/> 
-Student-Council BPDC - https://studentcouncilbpdc.com/<br/>
+
+# IEEE BPDC Projects <br/>
+
+IEEE official Website - https://ieeebitspilanidubai.vercel.app/ <br/>
+ResearchX website IEEE - https://researchxieeebpdc.vercel.app/ <br/>
+Datathon IEEExLUG -  https://datathon-ieeexlug.vercel.app <br/>
+Mouse Runner Challenge IEEExASME - https://mouse-runner-challenge.vercel.app <br/>
+
+# E-cell BPDC Projects <br/>
+
 E-cell BPDC website – https://ecellbpdc.vercel.app <br/>
+E-summit Website - https://www.esummitbpdc.com <br/>
+
+# Student Council BPDC Projects <br/>
+
+Student-Council BPDC - https://studentcouncilbpdc.com/<br/>
 
 ## work <br/>
 Tendercare FZE -  https://tendercare.com <br/>
