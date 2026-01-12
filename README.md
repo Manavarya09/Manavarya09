@@ -74,7 +74,7 @@ Student Council's official website featuring council members, campus initiatives
 
 # Tendercare FZE <br/>
 
-**Tendercare Website ** -  https://tendercare.com <br/>
+**Tendercare Website** -  https://tendercare.com <br/>
 Corporate website for Tendercare FZE healthcare company showcasing medical services, facilities, online appointments, patient portal, and healthcare solutions.<br/>
 *Tech Stack: HTML, CSS, JavaScript, Bootstrap, PHP, MySQL*
 
