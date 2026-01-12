@@ -13,15 +13,15 @@ My keyboard Account https://www.youtube.com/@Gammakey <br/>
 
 **Jashn Website** - https://jashn.bitsdubaievents.com </br>
 Annual cultural festival website featuring event registrations, live updates, and interactive schedules for BITS Pilani Dubai Campus's flagship cultural fest.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Vercel*
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase, Vercel*
 
 **Bsf Website** - https://bsf.bitsdubaievents.com <br/>
 BITS Sports Fest platform with sports event management, team registrations, live scoreboards, and tournament brackets for inter-college sports competitions.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase*
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase*
 
 **Bsf-admin Website** - https://bsf-admin.bitsdubaievents.com <br/>
 Administrative dashboard for BSF organizers to manage events, registrations, teams, schedules, and real-time updates during the sports festival.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase Admin SDK*
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase*
 
 **Bits-transport Website** - https://bits-transport.bitsdubaievents.com <br/>
 Campus transportation management system for event logistics, shuttle tracking, route planning, and participant transportation during major campus events.<br/>
@@ -29,17 +29,17 @@ Campus transportation management system for event logistics, shuttle tracking, r
 
 **Bits-K101 lms-system** - https://physical-education.bitsdubaievents.com <br/>
 Learning Management System for physical education courses with attendance tracking, fitness assessments, course materials, and student progress monitoring.<br/>
-*Tech Stack: Next.js, TypeScript, React, Firebase, Tailwind CSS, Chart.js*
+*Tech Stack: Next.js, TypeScript, React, PocketBase, Tailwind CSS, Chart.js*
 
 **Bitsevents certificate generator** - https://bitscertificategenerator.bitsdubaievents.com </br>
 Automated certificate generation tool for event participants with customizable templates, bulk generation, and digital signature integration.<br/>
-*Tech Stack: Next.js, TypeScript, React, Canvas API, PDF-lib, Firebase*
+*Tech Stack: Next.js, TypeScript, React, Canvas API, PDF-lib, PocketBase*
 
 # IEEE BPDC Projects <br/>
 
 **IEEE official Website** - https://ieeebitspilanidubai.vercel.app/ <br/>
 Official website for IEEE BITS Pilani Dubai Campus chapter showcasing technical events, workshops, research initiatives, and member resources.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Framer Motion, Vercel*
+*Tech Stack: React, TypeScript, Vite, Tailwind CSS, Framer Motion, Vercel*
 
 **ResearchX website IEEE** - https://researchxieeebpdc.vercel.app/ <br/>
 Research symposium platform for IEEE featuring paper submissions, abstracts, conference schedules, and academic collaboration tools for students and faculty.<br/>
@@ -61,7 +61,7 @@ Entrepreneurship Cell's official portal featuring startup resources, incubation 
 
 **E-summit Website** - https://www.esummitbpdc.com <br/>
 Annual entrepreneurship summit platform with speaker registrations, startup competitions, pitch decks, workshop schedules, and investor networking.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Firebase, Framer Motion, Vercel*
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase, Framer Motion, Vercel*
 
 # Student Council BPDC Projects <br/>
 
