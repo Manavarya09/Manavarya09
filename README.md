@@ -1,9 +1,9 @@
 ### 👋 Hi, I'm Manav Arya Singh, <br/>
 a Computer Science undergrad at BITS Pilani,  <br/>
 Full Stack developer and UI/UX Desginer <br/>
-My Instagram Personal account https://www.instagram.com/manav_arya_singh/?next=%2F <br/>
-My Gaming Account https://www.instagram.com/periperimouse/?next=%2F <br/>
-My keyboard Account https://www.youtube.com/@Gammakey <br/>
+[Instagram](https://www.instagram.com/manav_arya_singh/?next=%2F) <br/>
+[Gaming Account](https://www.instagram.com/periperimouse/?next=%2F) <br/>
+[keyboard Channel](https://www.youtube.com/@Gammakey) <br/>
 
 ## [Portfolio website](https://www.manavaryasingh.com) <br/>
  
