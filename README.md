@@ -5,8 +5,8 @@ My Instagram Personal account https://www.instagram.com/manav_arya_singh/?next=%
 My Gaming Account https://www.instagram.com/periperimouse/?next=%2F <br/>
 My keyboard Account https://www.youtube.com/@Gammakey <br/>
 
-## Portfolio website - https://www.manavaryasingh.com <br/>
-
+## [Portfolio website](https://www.manavaryasingh.com) <br/>
+ 
 ## Building BLESSBITE  <br>
 website - http://www.blessbite.com (waitlist) <br/>
 BlessBite is a food discovery platform that helps people understand what they eat. We focus on vegetarian food and provide clarity for Jain, No Onion–No Garlic, Eggless, and Sattvik diets. We help you discover and choose with confidence.
