@@ -62,7 +62,7 @@ Interactive robotics competition platform for micromouse challenge featuring rea
 Annual entrepreneurship summit platform with speaker registrations, startup competitions, pitch decks, workshop schedules, and investor networking.<br/>
 *Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase, Framer Motion, Vercel*
 
-**E-summit admin Website** - https://admin-esummitbpdc.com <br/>
+**E-summit admin Website** - https://admin.esummitbpdc.com <br/>
 Administrative dashboard for Esummit organizers to manage events, registrations, teams, schedules, and real-time updates during the event. <br/>
 *Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase*
 
