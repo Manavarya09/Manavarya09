@@ -58,13 +58,18 @@ Interactive robotics competition platform for micromouse challenge featuring rea
 
 # E-cell BPDC <br/>
 
+**E-summit Website** - https://www.esummitbpdc.com <br/>
+Annual entrepreneurship summit platform with speaker registrations, startup competitions, pitch decks, workshop schedules, and investor networking.<br/>
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase, Framer Motion, Vercel*
+
+**Esummit-admin Website** - https://admin-esummitbpdc.com <br/>
+Administrative dashboard for Esummit organizers to manage events, registrations, teams, schedules, and real-time updates during the event. <br/>
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase*
+
 **E-cell BPDC website** – https://ecellbpdc.vercel.app <br/>
 Entrepreneurship Cell's official portal featuring startup resources, incubation programs, speaker series, and entrepreneurship events for aspiring founders.<br/>
 *Tech Stack: Next.js 15, TypeScript, React, Tailwind CSS v4, Radix UI, shadcn/ui, Framer Motion, Zustand, TanStack Query, Vercel*
 
-**E-summit Website** - https://www.esummitbpdc.com <br/>
-Annual entrepreneurship summit platform with speaker registrations, startup competitions, pitch decks, workshop schedules, and investor networking.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase, Framer Motion, Vercel*
 
 # Student Council BPDC  <br/>
 
