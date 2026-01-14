@@ -70,10 +70,15 @@ Administrative dashboard for Esummit organizers to manage events, registrations,
 Entrepreneurship Cell's official portal featuring startup resources, incubation programs, speaker series, and entrepreneurship events for aspiring founders.<br/>
 *Tech Stack: Next.js 15, TypeScript, React, Tailwind CSS v4, Radix UI, shadcn/ui, Framer Motion, Zustand, TanStack Query, Vercel*
 
+# Linux User Group BPDC  <br/>
+
+**Linux User Group website** - https://www.lugbpdc.org <br/>
+This Linux Users Group's official website featuring team members, technical workshops, event calendars, community resources, and open-source projects.<br/>
+*Tech Stack: Next.js 15, React 19, TypeScript, Tailwind CSS, shadcn/ui, Radix UI, Three.js, React Three Fiber, React Hook Form, Zod*
 
 # Student Council BPDC  <br/>
 
-**Student-Council BPDC** - https://studentcouncilbpdc.com <br/>
+**Student-Council website** - https://studentcouncilbpdc.com <br/>
 Student Council's official website featuring council members, campus initiatives, event calendars, feedback systems, and student governance resources.<br/>
 *Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Radix UI, Three.js, React Router, React Hook Form, Zod*
 
