@@ -5,6 +5,8 @@ Full Stack developer and UI/UX Desginer <br/>
 [Gaming Account](https://www.instagram.com/periperimouse/?next=%2F) <br/>
 [keyboard Channel](https://www.youtube.com/@Gammakey) <br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manavarya09&label=Profile%20views&color=0e75b6&style=flat" alt="Manavarya09 /> </p>
+
 ## [Portfolio website](https://www.manavaryasingh.com) <br/>
  
 ## Building BLESSBITE  <br>
