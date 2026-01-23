@@ -83,6 +83,13 @@ This Linux Users Group's official website featuring team members, technical work
 Student Council's official website featuring council members, campus initiatives, event calendars, feedback systems, and student governance resources.<br/>
 *Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Radix UI, Three.js, React Router, React Hook Form, Zod*
 
+
+# Royal Chambers Of Engineers <br/>
+
+**Royal Chambers Of Engineers Website** - https://tendercare.com  <br/>
+Corporate website for Royal Chambers Of Engineers company showcasing services, facilities, Consultation appointments .<br/>
+*Tech Stack:  Next.js, TypeScript, React, Tailwind CSS, Framer Motion, Vercel*
+
 # Tendercare FZE <br/>
 
 **Tendercare Website** -  https://tendercare.com <br/>
