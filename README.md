@@ -86,7 +86,7 @@ Student Council's official website featuring council members, campus initiatives
 
 # Royal Chambers Of Engineers <br/>
 
-**Royal Chambers Of Engineers Website** - https://tendercare.com  <br/>
+**Royal Chambers Of Engineers Website** - https://www.royalchambersofengineers.in <br/>
 Corporate website for Royal Chambers Of Engineers company showcasing services, facilities, Consultation appointments .<br/>
 *Tech Stack:  Next.js, TypeScript, React, Tailwind CSS, Framer Motion, Vercel*
 
