@@ -41,6 +41,16 @@ Learning Management System for physical education courses with attendance tracki
 Automated certificate generation tool for event participants with customizable templates, bulk generation, and digital signature integration.<br/>
 *Tech Stack: Next.js, TypeScript, React, Canvas API, PDF-lib, PocketBase*
 
+# Creative Lab BPDC <br/>
+
+**Creative lab official Website** - https://creativelabbpdc.vercel.app <br/>
+Official website for Creative lab BITS Pilani Dubai Campus  showcasing technical events, workshops, research initiatives, and member resources.<br/>
+*Tech Stack: React, TypeScript, Vite, Tailwind CSS, Framer Motion, Vercel*
+
+**Cyberthron2026 website** - https://cyberthorn2026.vercel.app <br/>
+National-level Cyber-Physical Systems Design Competition website <br/>
+*Tech Stack: React, TypeScript, Vite, Tailwind CSS, Framer Motion, Vercel*
+
 # IEEE BPDC <br/>
 
 **IEEE official Website** - https://ieeebitspilanidubai.vercel.app <br/>
