@@ -12,7 +12,7 @@ Full Stack developer and UI/UX Desginer <br/>
  
 ## Building BLESSBITE  <br>
 website - http://www.blessbite.com (waitlist) <br/>
-BlessBite is a food discovery platform that helps people understand what they eat. We focus on vegetarian food and provide clarity for Jain, No Onion–No Garlic, Eggless, and Sattvik diets. We help you discover and choose with confidence.
+BlessBite is redefining satvik snacking for Gen Z. We build bold, addictive products without onion, garlic, caffeine, or artificial additives. This isn’t temple food. This is clean junk done right.
 
 
 # BITSDUBAIEVENTS <br/>
