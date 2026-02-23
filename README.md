@@ -34,7 +34,7 @@ Campus transportation management system for event logistics, shuttle tracking, r
 *Tech Stack: Next.js, TypeScript, React, Google Maps API, Tailwind CSS*
 
 **Bits-K101 lms-system** - https://physical-education.bitsdubaievents.com <br/>
-Learning Management System for physical education courses with attendance tracking, fitness assessments, course materials, and student progress monitoring.<br/>
+Learning Management System for physical education courses with attendance tracking and student progress monitoring.<br/>
 *Tech Stack: Next.js, TypeScript, React, PocketBase, Tailwind CSS, Chart.js*
 
 **Bitsevents certificate generator** - https://bitscertificategenerator.bitsdubaievents.com </br>
