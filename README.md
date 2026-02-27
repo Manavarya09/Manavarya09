@@ -115,9 +115,10 @@ Cultural festival website for Udgaar 2025 featuring event listings, artist lineu
 *Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Framer Motion, Vercel*
 
 ## Co-Curricular roles </br>
-Technical Lead - Esummit'26 BPDC </br>
+IT Head - Creative Lab BPDC </br>
 Technical & Digital Creative Co-lead - Jashn'26 </br>
 Technical Co-lead - BSF'25  </br>
+Technical Lead - Esummit'26 BPDC </br>
 Web Developer - IEEE BPDC </br>
 Web Developer - Student Council  </br>
 Technical Mentor - E-CELL BPDC  </br>
