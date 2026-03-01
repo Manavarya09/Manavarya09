@@ -87,7 +87,7 @@ Entrepreneurship Cell's official portal featuring startup resources, incubation 
 
 **Linux User Group website** - https://www.lugbpdc.org <br/>
 This Linux Users Group's official website featuring team members, technical workshops, event calendars, community resources, and open-source projects.<br/>
-*Tech Stack: Next.js 15, React 19, TypeScript, Tailwind CSS, shadcn/ui, Radix UI, Three.js, React Three Fiber, React Hook Form, Zod*
+*Tech Stack: Next.js 15, React, TypeScript, Tailwind CSS, shadcn/ui, Radix UI, Three.js, React Three Fiber, React Hook Form, Zod*
 
 # Student Council BPDC  <br/>
 
