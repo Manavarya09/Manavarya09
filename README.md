@@ -1,12 +1,27 @@
 ![GitHub Banner](GitHub-banner.jpg)
-[Instagram](https://www.instagram.com/manav_arya_singh/?next=%2F) 
-[Gaming Account](https://www.instagram.com/periperimouse/?next=%2F) 
-[keyboard Channel](https://www.youtube.com/@Gammakey) 
+<p align="center">
 
+<a href="https://www.manavaryasingh.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-## [Portfolio website](https://www.manavaryasingh.com) <br/>
+<a href="https://klyvra.manavaryasingh.com/">
+  <img src="https://img.shields.io/badge/Services-FF0000?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a>
 
-## [Services](https://klyvra.manavaryasingh.com/) <br/>
+<a href="https://www.instagram.com/manav_arya_singh/">
+  <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/periperimouse/">
+  <img src="https://img.shields.io/badge/Gaming%20Account-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@Gammakey">
+  <img src="https://img.shields.io/badge/Keyboard%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
  
 ## Building BLESSBITE  <br>
 website - http://www.blessbite.com (waitlist) <br/>
