@@ -1,7 +1,7 @@
 ![GitHub Banner](GitHub-banner.jpg)
-[Instagram](https://www.instagram.com/manav_arya_singh/?next=%2F) <br/>
-[Gaming Account](https://www.instagram.com/periperimouse/?next=%2F) <br/>
-[keyboard Channel](https://www.youtube.com/@Gammakey) <br/>
+[Instagram](https://www.instagram.com/manav_arya_singh/?next=%2F) 
+[Gaming Account](https://www.instagram.com/periperimouse/?next=%2F) 
+[keyboard Channel](https://www.youtube.com/@Gammakey) 
 
 
 ## [Portfolio website](https://www.manavaryasingh.com) <br/>
