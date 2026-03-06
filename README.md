@@ -1,4 +1,4 @@
-GitHub-banner.jpg
+![GitHub Banner](GitHub-banner.jpg)
 ### 👋 Hi, I'm Manav Arya Singh, <br/>
 a Computer Science undergrad at BITS Pilani,  <br/>
 Full Stack developer and UI/UX Desginer <br/>
