@@ -1,7 +1,4 @@
 ![GitHub Banner](GitHub-banner.jpg)
-### 👋 Hi, I'm Manav Arya Singh, <br/>
-a Computer Science undergrad at BITS Pilani,  <br/>
-Full Stack developer and UI/UX Desginer <br/>
 [Instagram](https://www.instagram.com/manav_arya_singh/?next=%2F) <br/>
 [Gaming Account](https://www.instagram.com/periperimouse/?next=%2F) <br/>
 [keyboard Channel](https://www.youtube.com/@Gammakey) <br/>
