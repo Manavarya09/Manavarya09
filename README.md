@@ -1,4 +1,4 @@
-![GitHub Banner](GitHub-banner.jpg)
+![GitHub Banner](GitHub .banner.jpg)
 <p align="center">
 
 <a href="https://www.manavaryasingh.com">
