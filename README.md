@@ -22,8 +22,8 @@
 </a>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Manavarya09&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Manavarya09&theme=github_dark" height="180"/>
+  <img src=" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Manavarya09&show_icons=true&theme=radical" height="180"/>
 </div>
 
 <div align="center">
