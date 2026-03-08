@@ -21,14 +21,9 @@
   <img src="https://img.shields.io/badge/Keyboard%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=black"/>
 </a>
 
-<div align="center">
-  <img src=" height="180"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Manavarya09&show_icons=true&theme=radical" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manavarya09&layout=compact&theme=github_dark" height="180"/>
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Manavarya09&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Manavarya09&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manavarya09&layout=compact&theme=radical)
  
 ## Building BLESSBITE  <br>
 website - http://www.blessbite.com (waitlist) <br/>
