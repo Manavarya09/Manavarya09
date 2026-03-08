@@ -22,6 +22,9 @@
 </a>
 
 </p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Manavarya09&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Manavarya09&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manavarya09&layout=compact&theme=github_dark)
  
 ## Building BLESSBITE  <br>
 website - http://www.blessbite.com (waitlist) <br/>
@@ -194,10 +197,6 @@ Technical Mentor - E-CELL BPDC  </br>
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manavarya09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manavarya09&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manavarya09&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 <div align="center">
