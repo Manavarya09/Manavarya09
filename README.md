@@ -25,9 +25,9 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Manavarya09&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manavarya09&layout=compact&theme=radical)
  
-## Building BLESSBITE  <br>
-website - http://www.blessbite.com (waitlist) <br/>
-BlessBite is redefining satvik snacking for Gen Z. We build bold, addictive products without onion, garlic, caffeine, or artificial additives. This isn’t temple food. This is clean junk done right.
+# Building SAVREATS   <br/>
+website - https://www.savreats.ae   <br/>
+SAVREATS is redefining dining in the UAE. Discover exclusive restaurant deals, split bills instantly with NFC tap-to-pay, and redeem offers in one tap. This isn't just a deals app. This is how Dubai eats.
 
 
 # BITSDUBAIEVENTS <br/>
