@@ -72,6 +72,10 @@ National-level Cyber-Physical Systems Design Competition website <br/>
 Official website for IEEE BITS Pilani Dubai Campus chapter showcasing technical events, workshops, research initiatives, and member resources.<br/>
 *Tech Stack: React, TypeScript, Vite, Tailwind CSS, Framer Motion, Vercel*
 
+**Peripherals Lab website IEEE** - https://peripherals-lab.vercel.app <br/>
+Peripherals Lab is an IoT-HCI (Internet of Things & Human-Computer Interaction (HCI)) challenge where participants design a real-time game controlled via virtual IoT hardware simulation (Wokwi/ESP32) using professional communication protocol (MQTT/WebSockets) <br/>
+*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Vercel*
+
 **ResearchX website IEEE** - https://researchxieeebpdc.vercel.app <br/>
 Research symposium platform for IEEE featuring paper submissions, abstracts, conference schedules, and academic collaboration tools for students and faculty.<br/>
 *Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Vercel*
