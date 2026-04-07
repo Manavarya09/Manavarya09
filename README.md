@@ -204,6 +204,6 @@ Technical Mentor - E-CELL BPDC  </br>
 
 
 
-![Github Stats](http://stats.pphat.top/stats?username=Manavarya09&avatar_mode=radar&theme=highcontrast&data_border_style=frame)
+![Github Stats](http://stats.pphat.top/stats?username=Manavarya09&avatar_mode=radar&theme=default&data_border_style=frame)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
