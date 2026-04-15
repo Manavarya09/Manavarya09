@@ -29,109 +29,65 @@
 website - https://www.savreats.ae   <br/>
 SAVREATS is redefining dining in the UAE. Discover exclusive restaurant deals, split bills instantly with NFC tap-to-pay, and redeem offers in one tap. This isn't just a deals app. This is how Dubai eats.
 
-
 # BITSDUBAIEVENTS <br/>
 
 **Jashn Website** - https://jashn.bitsdubaievents.com </br>
-Annual cultural festival website featuring event registrations, live updates, and interactive schedules for BITS Pilani Dubai Campus's flagship cultural fest.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase, Vercel*
 
 **Bsf Website** - https://bsf.bitsdubaievents.com <br/>
-BITS Sports Fest platform with sports event management, team registrations, live scoreboards, and tournament brackets for inter-college sports competitions.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase*
 
 **Bsf-admin Website** - https://bsf-admin.bitsdubaievents.com <br/>
-Administrative dashboard for BSF organizers to manage events, registrations, teams, schedules, and real-time updates during the sports festival.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase*
 
 **Bits-transport Website** - https://bits-transport.bitsdubaievents.com <br/>
-Campus transportation management system for event logistics, shuttle tracking, route planning, and participant transportation during major campus events.<br/>
-*Tech Stack: Next.js, TypeScript, React, Google Maps API, Tailwind CSS*
 
 **Bits-K101 lms-system** - https://physical-education.bitsdubaievents.com <br/>
-Learning Management System for physical education courses with attendance tracking and student progress monitoring.<br/>
-*Tech Stack: Next.js, TypeScript, React, PocketBase, Tailwind CSS, Chart.js*
 
 **Bitsevents certificate generator** - https://bitscertificategenerator.bitsdubaievents.com </br>
-Automated certificate generation tool for event participants with customizable templates, bulk generation, and digital signature integration.<br/>
-*Tech Stack: Next.js, TypeScript, React, Canvas API, PDF-lib, PocketBase*
 
 # Creative Lab BPDC <br/>
 
 **Creative lab official Website** - https://creativelabbpdc.vercel.app <br/>
-Official website for Creative lab BITS Pilani Dubai Campus  showcasing technical events, workshops, research initiatives, and member resources.<br/>
-*Tech Stack: React, TypeScript, Vite, Tailwind CSS, Framer Motion, Vercel*
 
 **Cyberthron2026 website** - https://cyberthorn2026.vercel.app <br/>
-National-level Cyber-Physical Systems Design Competition website <br/>
-*Tech Stack: React, TypeScript, Vite, Tailwind CSS, Framer Motion, Vercel*
 
 # IEEE BPDC <br/>
 
 **IEEE official Website** - https://ieeebitspilanidubai.vercel.app <br/>
-Official website for IEEE BITS Pilani Dubai Campus chapter showcasing technical events, workshops, research initiatives, and member resources.<br/>
-*Tech Stack: React, TypeScript, Vite, Tailwind CSS, Framer Motion, Vercel*
 
 **Peripherals Lab website IEEE** - https://peripherals-lab.vercel.app <br/>
-Peripherals Lab is an IoT-HCI (Internet of Things & Human-Computer Interaction (HCI)) challenge where participants design a real-time game controlled via virtual IoT hardware simulation (Wokwi/ESP32) using professional communication protocol (MQTT/WebSockets) <br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Vercel*
 
 **ResearchX website IEEE** - https://researchxieeebpdc.vercel.app <br/>
-Research symposium platform for IEEE featuring paper submissions, abstracts, conference schedules, and academic collaboration tools for students and faculty.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Vercel*
 
 **Datathon IEEExLUG** -  https://datathon-ieeexlug.vercel.app <br/>
-Data science hackathon website with team registrations, problem statements, leaderboards, and submission portals for collaborative IEEE x LUG event.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, , Vercel*
 
 **Mouse Runner Challenge IEEExASME** - https://mouse-runner-challenge.vercel.app <br/>
-Interactive robotics competition platform for micromouse challenge featuring real-time maze solving visualizations, team standings, and event details.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Vercel*
 
 # E-cell BPDC <br/>
 
 **E-summit Website** - https://www.esummitbpdc.com <br/>
-Annual entrepreneurship summit platform with speaker registrations, startup competitions, pitch decks, workshop schedules, and investor networking.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase, Framer Motion, Vercel*
 
 **E-summit admin Website** - https://admin.esummitbpdc.com <br/>
-Administrative dashboard for Esummit organizers to manage events, registrations, teams, schedules, and real-time updates during the event. <br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, PocketBase*
 
 **E-cell BPDC website** – https://ecellbpdc.vercel.app <br/>
-Entrepreneurship Cell's official portal featuring startup resources, incubation programs, speaker series, and entrepreneurship events for aspiring founders.<br/>
-*Tech Stack: Next.js 15, TypeScript, React, Tailwind CSS v4, Radix UI, shadcn/ui, Framer Motion, Zustand, TanStack Query, Vercel*
 
 # Linux User Group BPDC  <br/>
 
 **Linux User Group website** - https://www.lugbpdc.org <br/>
-This Linux Users Group's official website featuring team members, technical workshops, event calendars, community resources, and open-source projects.<br/>
-*Tech Stack: Next.js 15, React, TypeScript, Tailwind CSS, shadcn/ui, Radix UI, Three.js, React Three Fiber, React Hook Form, Zod*
 
 # Student Council BPDC  <br/>
 
 **Student-Council website** - https://studentcouncilbpdc.com <br/>
-Student Council's official website featuring council members, campus initiatives, event calendars, feedback systems, and student governance resources.<br/>
-*Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Radix UI, Three.js, React Router, React Hook Form, Zod*
-
 
 # Royal Chambers Of Engineers <br/>
 
 **Royal Chambers Of Engineers Website** - https://www.royalchambersofengineers.in <br/>
-Corporate website for Royal Chambers Of Engineers company showcasing services, facilities, Consultation appointments .<br/>
-*Tech Stack:  Next.js, TypeScript, React, Tailwind CSS, Framer Motion, Vercel*
 
 # Tendercare FZE <br/>
 
 **Tendercare Website** -  https://tendercare.com <br/>
-Corporate website for Tendercare FZE healthcare company showcasing medical services, facilities, online appointments, patient portal, and healthcare solutions.<br/>
-*Tech Stack: HTML, CSS, JavaScript, Bootstrap, PHP, MySQL*
 
 # Udgaar 2025 <br/>
 
 **Udgaar 2025 website** - https://www.udgaar.in <br/>
-Cultural festival website for Udgaar 2025 featuring event listings, artist lineups, ticket bookings, live updates, and interactive campus maps.<br/>
-*Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Framer Motion, Vercel*
 
 ## Co-Curricular roles </br>
 IT Head - Creative Lab BPDC </br>
