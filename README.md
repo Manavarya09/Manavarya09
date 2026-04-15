@@ -29,65 +29,144 @@
 website - https://www.savreats.ae   <br/>
 SAVREATS is redefining dining in the UAE. Discover exclusive restaurant deals, split bills instantly with NFC tap-to-pay, and redeem offers in one tap. This isn't just a deals app. This is how Dubai eats.
 
+
+
 # BITSDUBAIEVENTS <br/>
+<p align="center">
 
-**Jashn Website** - https://jashn.bitsdubaievents.com </br>
+<a href="https://jashn.bitsdubaievents.com">
+  <img src="https://img.shields.io/badge/Jashn-FF0000?style=for-the-badge"/>
+</a>
 
-**Bsf Website** - https://bsf.bitsdubaievents.com <br/>
+<a href="https://bsf.bitsdubaievents.com">
+  <img src="https://img.shields.io/badge/BSF-FF0000?style=for-the-badge"/>
+</a>
 
-**Bsf-admin Website** - https://bsf-admin.bitsdubaievents.com <br/>
+<a href="https://bsf-admin.bitsdubaievents.com">
+  <img src="https://img.shields.io/badge/BSF%20Admin-FF0000?style=for-the-badge"/>
+</a>
 
-**Bits-transport Website** - https://bits-transport.bitsdubaievents.com <br/>
+<a href="https://bits-transport.bitsdubaievents.com">
+  <img src="https://img.shields.io/badge/Transport-FF0000?style=for-the-badge"/>
+</a>
 
-**Bits-K101 lms-system** - https://physical-education.bitsdubaievents.com <br/>
+<a href="https://physical-education.bitsdubaievents.com">
+  <img src="https://img.shields.io/badge/K101%20LMS-FF0000?style=for-the-badge"/>
+</a>
 
-**Bitsevents certificate generator** - https://bitscertificategenerator.bitsdubaievents.com </br>
+<a href="https://bitscertificategenerator.bitsdubaievents.com">
+  <img src="https://img.shields.io/badge/Certificates-FF0000?style=for-the-badge"/>
+</a>
+
+</p>
+
 
 # Creative Lab BPDC <br/>
+<p align="center">
 
-**Creative lab official Website** - https://creativelabbpdc.vercel.app <br/>
+<a href="https://creativelabbpdc.vercel.app">
+  <img src="https://img.shields.io/badge/Creative%20Lab-FF0000?style=for-the-badge"/>
+</a>
 
-**Cyberthron2026 website** - https://cyberthorn2026.vercel.app <br/>
+<a href="https://cyberthorn2026.vercel.app">
+  <img src="https://img.shields.io/badge/Cyberthron-FF0000?style=for-the-badge"/>
+</a>
+
+</p>
+
 
 # IEEE BPDC <br/>
+<p align="center">
 
-**IEEE official Website** - https://ieeebitspilanidubai.vercel.app <br/>
+<a href="https://ieeebitspilanidubai.vercel.app">
+  <img src="https://img.shields.io/badge/IEEE-FF0000?style=for-the-badge"/>
+</a>
 
-**Peripherals Lab website IEEE** - https://peripherals-lab.vercel.app <br/>
+<a href="https://peripherals-lab.vercel.app">
+  <img src="https://img.shields.io/badge/Peripherals%20Lab-FF0000?style=for-the-badge"/>
+</a>
 
-**ResearchX website IEEE** - https://researchxieeebpdc.vercel.app <br/>
+<a href="https://researchxieeebpdc.vercel.app">
+  <img src="https://img.shields.io/badge/ResearchX-FF0000?style=for-the-badge"/>
+</a>
 
-**Datathon IEEExLUG** -  https://datathon-ieeexlug.vercel.app <br/>
+<a href="https://datathon-ieeexlug.vercel.app">
+  <img src="https://img.shields.io/badge/Datathon-FF0000?style=for-the-badge"/>
+</a>
 
-**Mouse Runner Challenge IEEExASME** - https://mouse-runner-challenge.vercel.app <br/>
+<a href="https://mouse-runner-challenge.vercel.app">
+  <img src="https://img.shields.io/badge/Mouse%20Runner-FF0000?style=for-the-badge"/>
+</a>
+
+</p>
+
 
 # E-cell BPDC <br/>
+<p align="center">
 
-**E-summit Website** - https://www.esummitbpdc.com <br/>
+<a href="https://www.esummitbpdc.com">
+  <img src="https://img.shields.io/badge/E--Summit-FF0000?style=for-the-badge"/>
+</a>
 
-**E-summit admin Website** - https://admin.esummitbpdc.com <br/>
+<a href="https://admin.esummitbpdc.com">
+  <img src="https://img.shields.io/badge/E--Summit%20Admin-FF0000?style=for-the-badge"/>
+</a>
 
-**E-cell BPDC website** – https://ecellbpdc.vercel.app <br/>
+<a href="https://ecellbpdc.vercel.app">
+  <img src="https://img.shields.io/badge/E--Cell-FF0000?style=for-the-badge"/>
+</a>
+
+</p>
+
 
 # Linux User Group BPDC  <br/>
+<p align="center">
 
-**Linux User Group website** - https://www.lugbpdc.org <br/>
+<a href="https://www.lugbpdc.org">
+  <img src="https://img.shields.io/badge/LUG-FF0000?style=for-the-badge"/>
+</a>
+
+</p>
+
 
 # Student Council BPDC  <br/>
+<p align="center">
 
-**Student-Council website** - https://studentcouncilbpdc.com <br/>
+<a href="https://studentcouncilbpdc.com">
+  <img src="https://img.shields.io/badge/Student%20Council-FF0000?style=for-the-badge"/>
+</a>
+
+</p>
+
 
 # Royal Chambers Of Engineers <br/>
+<p align="center">
 
-**Royal Chambers Of Engineers Website** - https://www.royalchambersofengineers.in <br/>
+<a href="https://www.royalchambersofengineers.in">
+  <img src="https://img.shields.io/badge/RCE-FF0000?style=for-the-badge"/>
+</a>
+
+</p>
+
 
 # Tendercare FZE <br/>
+<p align="center">
 
-**Tendercare Website** -  https://tendercare.com <br/>
+<a href="https://tendercare.com">
+  <img src="https://img.shields.io/badge/Tendercare-FF0000?style=for-the-badge"/>
+</a>
+
+</p>
+
 
 # Udgaar 2025 <br/>
+<p align="center">
 
-**Udgaar 2025 website** - https://www.udgaar.in <br/>
+<a href="https://www.udgaar.in">
+  <img src="https://img.shields.io/badge/Udgaar-FF0000?style=for-the-badge"/>
+</a>
+
+</p>
 
 ## Co-Curricular roles </br>
 IT Head - Creative Lab BPDC </br>
