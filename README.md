@@ -1,5 +1,4 @@
 ![GitHub Banner](GitHub_banner.jpg)
-
 <p align="center">
 
 <a href="https://www.manavaryasingh.com">
@@ -22,53 +21,12 @@
   <img src="https://img.shields.io/badge/Keyboard%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=black"/>
 </a>
 
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Manavarya09&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Manavarya09&theme=radical" />
-</p>
-
----
-
-<table>
-<tr>
-<td width="65%">
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manavarya09&layout=compact&theme=radical" />
-
-</td>
-
-<td width="35%" align="center">
-
-<p>
-  <a href="https://user-badge.committers.top/uae/Manavarya09">
-    <img src="https://user-badge.committers.top/uae/Manavarya09.svg" width="220"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://user-badge.committers.top/uae_public/Manavarya09">
-    <img src="https://user-badge.committers.top/uae_public/Manavarya09.svg" width="220"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://user-badge.committers.top/uae_private/Manavarya09">
-    <img src="https://user-badge.committers.top/uae_private/Manavarya09.svg" width="220"/>
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Manavarya09&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Manavarya09&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manavarya09&layout=compact&theme=radical)
+[![committers.top badge](https://user-badge.committers.top/uae/Manavarya09.svg)](https://user-badge.committers.top/uae/Manavarya09)
+[![committers.top badge](https://user-badge.committers.top/uae_public/Manavarya09.svg)](https://user-badge.committers.top/uae_public/Manavarya09)
+[![committers.top badge](https://user-badge.committers.top/uae_private/Manavarya09.svg)](https://user-badge.committers.top/uae_private/Manavarya09)
  
 # Building SAVREATS   <br/>
 website - https://www.savreats.ae   <br/>
