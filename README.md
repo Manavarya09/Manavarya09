@@ -24,40 +24,51 @@
 
 </p>
 
+---
+
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Manavarya09&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Manavarya09&theme=radical" />
 </p>
 
-<br>
+---
 
 <table>
 <tr>
-<td width="70%">
+<td width="65%">
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manavarya09&layout=compact&theme=radical" />
 
 </td>
 
-<td width="30%" align="center">
+<td width="35%" align="center">
 
-<a href="https://user-badge.committers.top/uae/Manavarya09">
-  <img src="https://user-badge.committers.top/uae/Manavarya09.svg"/>
-</a>
-<br><br>
+<p>
+  <a href="https://user-badge.committers.top/uae/Manavarya09">
+    <img src="https://user-badge.committers.top/uae/Manavarya09.svg" width="220"/>
+  </a>
+</p>
 
-<a href="https://user-badge.committers.top/uae_public/Manavarya09">
-  <img src="https://user-badge.committers.top/uae_public/Manavarya09.svg"/>
-</a>
-<br><br>
+<p>
+  <a href="https://user-badge.committers.top/uae_public/Manavarya09">
+    <img src="https://user-badge.committers.top/uae_public/Manavarya09.svg" width="220"/>
+  </a>
+</p>
 
-<a href="https://user-badge.committers.top/uae_private/Manavarya09">
-  <img src="https://user-badge.committers.top/uae_private/Manavarya09.svg"/>
-</a>
+<p>
+  <a href="https://user-badge.committers.top/uae_private/Manavarya09">
+    <img src="https://user-badge.committers.top/uae_private/Manavarya09.svg" width="220"/>
+  </a>
+</p>
 
 </td>
 </tr>
 </table>
+
+---
+
+
+
  
 # Building SAVREATS   <br/>
 website - https://www.savreats.ae   <br/>
