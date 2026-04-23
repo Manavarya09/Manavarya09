@@ -25,6 +25,8 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Manavarya09&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Manavarya09&layout=compact&theme=radical)
 [![committers.top badge](https://user-badge.committers.top/uae/Manavarya09.svg)](https://user-badge.committers.top/uae/Manavarya09)
+[![committers.top badge](https://user-badge.committers.top/uae_public/Manavarya09.svg)](https://user-badge.committers.top/uae_public/Manavarya09)
+[![committers.top badge](https://user-badge.committers.top/uae_private/Manavarya09.svg)](https://user-badge.committers.top/uae_private/Manavarya09)
  
 # Building SAVREATS   <br/>
 website - https://www.savreats.ae   <br/>
