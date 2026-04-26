@@ -136,26 +136,6 @@ Corporate website for Tendercare FZE healthcare company showcasing medical servi
 Cultural festival website for Udgaar 2025 featuring event listings, artist lineups, ticket bookings, live updates, and interactive campus maps.<br/>
 *Tech Stack: Next.js, TypeScript, React, Tailwind CSS, Framer Motion, Vercel*
 
-## Co-Curricular roles </br>
-IT Head - Creative Lab BPDC </br>
-Technical & Digital Creative Co-lead - Jashn'26 </br>
-Technical Co-lead - BSF'25  </br>
-Technical Lead - Esummit'26 BPDC </br>
-Web Developer - IEEE BPDC </br>
-Web Developer - Student Council  </br>
-Technical Mentor - E-CELL BPDC  </br>
-</br>
- ## Co-Curricular roles - outside of tech </br>
- Marketing Head - E-CELL BPDC  </br>
- Creative Head - Spectrum 2026 </br>
- GRAPHIC DESIGNER & SOCIAL MEDIA CORDINATOR - STUDENT COUNCIL BPDC  </br> 
- Media Executive  - MAD CLUB </br>
- Marketing Executive - ACM BPDC & LUG BPDC </br>
- Treasurer - Expressions, BPDC
- 
-
-<br/>
-
 
 
 ## 🌐 Socials:
