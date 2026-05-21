@@ -191,9 +191,6 @@ Cultural festival website for Udgaar 2025 featuring event listings, artist lineu
 
 
 
-![Claude Code Stats](https://api.advantage.onl/public/badge/claude-code.svg?name=Manavarya09&theme=dark)
-
-![Claude Code Tools](https://api.advantage.onl/public/badge/claude-code-tools.svg?name=Manavarya09&theme=dark)
 
 
 
