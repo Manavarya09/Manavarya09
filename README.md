@@ -29,7 +29,7 @@
 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manavarya09)](https://github.com/Manavarya09/github-readme-stats)
 
 
 ![Github Stats](http://stats.pphat.top/stats?username=Manavarya09&avatar_mode=radar&theme=radical&data_border_style=frame)
