@@ -35,7 +35,7 @@
 
 
 
-![Github Stats](http://stats.pphat.top/stats?username=Manavarya09&avatar_mode=radar&theme=radical&data_border_style=frame)
+
 
 
 
